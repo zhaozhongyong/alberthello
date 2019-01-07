@@ -23,6 +23,7 @@
     
     <modules>
         <module>springbootmybatis</module>
+        <module>springbootcache</module>
     </modules>
 
 
