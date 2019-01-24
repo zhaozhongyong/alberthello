@@ -24,6 +24,7 @@
     <modules>
         <module>springbootmybatis</module>
         <module>springbootcache</module>
+        <module>helloworld</module>
     </modules>
 
 
