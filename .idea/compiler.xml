@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="helloworld" />
         <module name="springbootcache" />
         <module name="springbootmybatis" />
+        <module name="springbootredis" />
       </profile>
     </annotationProcessing>
   </component>
