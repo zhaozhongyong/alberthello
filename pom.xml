@@ -24,7 +24,17 @@
         <module>springbootcache</module>
         <module>helloworld</module>
         <module>springboot-redis</module>
+        <module>springboot-shell</module>
+        <module>springboot-rabbitmq</module>
     </modules>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

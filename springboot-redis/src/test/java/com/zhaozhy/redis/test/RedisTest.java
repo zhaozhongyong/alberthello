@@ -18,6 +18,7 @@ public class RedisTest {
     @Autowired
     private RedisTemplate<String, Object> redisTemplate;
 
+
     @Test
     public void testSet() {
         this.redisTemplate.opsForValue().set("idea", "idea测试");

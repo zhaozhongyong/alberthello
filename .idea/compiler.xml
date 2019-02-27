@@ -9,7 +9,9 @@
         <module name="helloworld" />
         <module name="springbootcache" />
         <module name="springbootmybatis" />
+        <module name="springbootrabbitmq" />
         <module name="springbootredis" />
+        <module name="springbootshell" />
       </profile>
     </annotationProcessing>
   </component>
