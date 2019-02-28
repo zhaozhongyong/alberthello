@@ -15,5 +15,11 @@
         <module name="springbootshell" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alberthello" target="1.7" />
+      <module name="helloworld" target="1.7" />
+      <module name="springbootcache" target="1.7" />
+      <module name="springbootmybatis" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
