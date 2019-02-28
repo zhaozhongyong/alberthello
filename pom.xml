@@ -25,6 +25,9 @@
         <module>springbootmybatis</module>
         <module>springbootcache</module>
         <module>helloworld</module>
+        <module>springboot-rabbitmq</module>
+        <module>springboot-redis</module>
+        <module>springboot-shell</module>
     </modules>
 
 
