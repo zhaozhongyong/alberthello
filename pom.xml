@@ -16,25 +16,16 @@
     </parent>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>1.7</java.version>
+        <thymeleaf.version>3.0.2.RELEASE</thymeleaf.version>
+        <thymeleaf-layout-dialect.version>2.0.4</thymeleaf-layout-dialect.version>
     </properties>
     
     <modules>
         <module>springbootmybatis</module>
         <module>springbootcache</module>
         <module>helloworld</module>
-        <module>springboot-redis</module>
-        <module>springboot-shell</module>
-        <module>springboot-rabbitmq</module>
     </modules>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
