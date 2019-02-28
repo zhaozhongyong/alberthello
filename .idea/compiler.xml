@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="helloworld" />
         <module name="springbootcache" />
+        <module name="springbootmulti" />
         <module name="springbootmybatis" />
         <module name="springbootrabbitmq" />
         <module name="springbootredis" />

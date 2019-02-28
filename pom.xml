@@ -26,6 +26,7 @@
         <module>springboot-redis</module>
         <module>springboot-shell</module>
         <module>springboot-rabbitmq</module>
+        <module>springboot-multi</module>
     </modules>
 
     <build>
